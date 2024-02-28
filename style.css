@@ -1,0 +1,35 @@
+body{
+	background-color:#856FD7;
+	background-image: url("https://grizly.club/uploads/posts/2023-02/1675322030_grizly-club-p-klipart-mertsanie-43.png");
+	background-size:cover;
+	font-family: "Alice", serif;
+}
+h1 {
+	text-align: center;
+	color:#240672;
+}
+h2{
+	color:#BFA930;
+	text-align: center;
+	font-style: italic;
+}
+p{
+	text-align: justify;
+	font-size:23px;
+}
+table{
+	border:1px solid green;
+	border-collapse: collapse;
+}
+th,td{
+	border:1px solid green
+}
+.alice-regular {
+  font-family: "Alice", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+a{
+	color: #DCDCDC;
+	font-size:23px;
+}
